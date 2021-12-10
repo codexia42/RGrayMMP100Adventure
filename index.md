@@ -165,7 +165,7 @@ button {
                   <!-- Second header column with ISSUE|DATE -->
                   <tbody>
                     <tr>
-                      <td style="font-size: 12px; color:#929292; text-align:center; font-family: sans-serif;">R, Gray MMA&nbsp;&nbsp;</td>
+                      <td style="font-size: 12px; color:#929292; text-align:center; font-family: sans-serif;">R, Gray MMP&nbsp;&nbsp;</td>
                     </tr>
                   </tbody>
                 </table></td>
@@ -203,7 +203,7 @@ button {
                   </tr>
                   <tr> 
                     <!-- row container for Tagline -->
-                    <td align="center" style="font-size: 16px; font-weight:300; color: #929292; font-family: sans-serif;">An MMA Production&nbsp; </td>
+                    <td align="center" style="font-size: 16px; font-weight:300; color: #929292; font-family: sans-serif;">An MMP Production&nbsp; </td>
                   </tr>
                   <tr>
                     <td style="font-size: 0; line-height: 0;" height="20"><table width="96%" align="left"  cellpadding="0" cellspacing="0">
